@@ -1,0 +1,22 @@
+{
+    "infantil": [
+        "infantil/1.jpg",
+        "infantil/2.jpg",
+        "infantil/3.jpg"
+],
+    "romance": [
+        "romance/1.jpg",
+        "romance/2.jpg",
+        "romance/3.jpg"
+    ],
+    "suspense": [
+        "suspense/1.jpg",
+        "suspense/2.jpg",
+        "suspense/3.jpg"
+    ],
+    "terror": [
+        "terror/1.jpg",
+        "terror/2.jpg",
+        "terror/3.jpg"
+    ]
+}
